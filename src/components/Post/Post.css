@@ -1,0 +1,18 @@
+.post{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.post-title, .post-username, .post-body, p{
+    padding-left: 20px;
+}
+
+.post-title{
+    font-size: 36px;
+}
+
+.post-body{
+    font-size: 24px;
+}
